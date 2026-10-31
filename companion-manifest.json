@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "hardware": "HEMS_COMPANION_WINDOWS",
+  "channel": "stable",
+  "version": "2.21.0",
+  "size": 37476887,
+  "sha256": "cefd3a7dba0584377c1b1556baee911c11156c0e14b77b0b95487cab8355a8ba",
+  "url": "https://github.com/tatsuo25103/hems-smartplc-updates/releases/download/v2.21.0/StamPLC-Companion-Windows.zip",
+  "signature_alg": "ECDSA_P256_SHA256",
+  "signature": "MEUCIQCpDrh+NHC9eba3UvUxeoMS+8ZhNETg7CiXFANqukUXkwIgQ+L90nZH9UW7GVdP/OdcJUEyoq/1PVrHj3rrJyzW7V4="
+}

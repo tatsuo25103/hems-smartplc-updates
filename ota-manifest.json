@@ -7,5 +7,5 @@
   "sha256": "a2b758d2422b3813641190b8b6ca60c8f3d21a7bfb40e53b66629094058c4187",
   "url": "https://github.com/tatsuo25103/hems-smartplc-updates/releases/download/v2.21.2/firmware.bin",
   "signature_alg": "ECDSA_P256_SHA256",
-  "signature": "MEUCIDXd8IBSVgsEmc7OoDgzHKC3y9tg80LQz6iOXauU74NZAiEAnxwPe+PjKqfUuwamWHs1JFD0rmSJZwJs/t1k9qrJIo4="
+  "signature": "MEQCIFYJakhmDlpAduoAIo+sAVIrkBRM2HzM9MLxb/ceWyjjAiBaPgSrZ56mtTfZtf0Ph1Oegd/sS9wPz9XKuVcWlZ/PGw=="
 }

@@ -2,10 +2,10 @@
   "schema": 1,
   "hardware": "HEMS_COMPANION_WINDOWS",
   "channel": "stable",
-  "version": "2.25.0",
-  "size": 37969907,
-  "sha256": "7ecc7ce2941e1b71c213389d93b5ea2fd25e85e9eba3d4978d09975442106f4f",
-  "url": "https://github.com/tatsuo25103/hems-smartplc-updates/releases/download/v2.25.0/StamPLC-Companion-Windows.zip",
+  "version": "2.26.0",
+  "size": 38773179,
+  "sha256": "f50b8d04512ab6a71d9d26824d34354570e7a36f6379a0bccd007c9e68a60f84",
+  "url": "https://github.com/tatsuo25103/hems-smartplc-updates/releases/download/v2.26.0/StamPLC-Companion-Windows.zip",
   "signature_alg": "ECDSA_P256_SHA256",
-  "signature": "MEYCIQC/fTHQsLN3CWtrNT8SEobHMPewb6KMIMy3xwWd19Dc+QIhAPqwMFmcIpjdxZ6kpL5EE3+a/e1M9OExXf4JBzsvn35G"
+  "signature": "MEQCIBNSumbdpe96twvb/IYSTVrV7O3pDPHtw5/z8jLoE8jsAiACufw7JyupIYHA398oX3FK7QFfbJNPNh/Q09cNQWvdeg=="
 }

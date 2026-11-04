@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "app_id": "io.hems.energy",
+  "version": "1.3.3",
+  "version_code": 7,
+  "size": 4508349,
+  "sha256": "5d44cc272ceacbbef2f897ba0c61e4d79278ff9cb81d05743775e5bf0db82528",
+  "url": "https://github.com/tatsuo25103/hems-smartplc-updates/releases/download/android-v1.3.3/hems-energy-1.3.3.apk"
+}

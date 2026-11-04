@@ -2,10 +2,10 @@
   "schema": 1,
   "hardware": "HEMS_STAMPPLC_K141",
   "channel": "stable",
-  "version": "2.29.5",
-  "size": 1303296,
-  "sha256": "0ed3c891bf297d80c741c8e16a938f7100669fd86bb290ab8aae705dea15ca99",
-  "url": "https://github.com/tatsuo25103/hems-smartplc-updates/releases/download/v2.29.5/firmware.bin",
+  "version": "2.34.0",
+  "size": 1320944,
+  "sha256": "c36b60ba27b5354006d1de58637f7a559e9058c23f9071995784f5c5dbf4c1a1",
+  "url": "https://github.com/tatsuo25103/hems-smartplc-updates/releases/download/v2.34.0/firmware.bin",
   "signature_alg": "ECDSA_P256_SHA256",
-  "signature": "MEQCIHVTQQ8QcnDleCMnVRN5Ahyk/hxX2pTBzMh1axTEJmW5AiBJpxE31Sne6zZmSPM4Xkl6EJqOiOw9kx6qPq5wb8O4jQ=="
+  "signature": "MEQCIBv5rL/iZ7hXRS2Rgcq5bP8vhzLQfn7XJhLFv9uFrvl4AiA1uD4j6clf3RqhMd156VeJskCNh8xuz5PcAxVadaiEHg=="
 }
